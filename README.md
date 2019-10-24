@@ -13,7 +13,7 @@ Clone or download the repo onto your machine. Open the Go function in your favou
 * A free Pusher account.
 * A free Google Firebase Account.
 * Homebrew installed on your machine.
-* NodeJS installed on your local machine. (If you are running this source code).
+* Visual Code Studio
 * Postman HTTP client installed on your local machine
 * Android Studio 3.3.2+
 * An understanding of Android development and Android studio environment.
